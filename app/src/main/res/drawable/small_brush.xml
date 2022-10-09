@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Dither means that if the bitmap doesnt have the same pixel configuration as the screen then it automatically adjusts the image to work on all different screens-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:dither="true"
+    android:shape="oval">
+    <solid android:color="#FF666666"/>
+    <size
+        android:width="10dp"
+        android:height="10dp"
+        />
+
+
+</shape>
